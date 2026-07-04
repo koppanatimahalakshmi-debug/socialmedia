@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Gowri",
+      "email": "gowri@gmail.com",
+      "password": "123456",
+      "dob": "2026-06-09",
+      "mobile": "1234567890",
+      "gender": "female",
+      "username": "gowri",
+      "following": [],
+      "followers": [],
+      "id": "rho-7g56EeU"
+    },
+    {
+      "name": "Maha",
+      "email": "maha@gmail.com",
+      "password": "1234",
+      "dob": "2026-05-31",
+      "mobile": "938173676",
+      "gender": "female",
+      "username": "mahi",
+      "following": [],
+      "followers": [],
+      "id": "VNs2SZQKaoQ"
+    },
+    {
+      "name": "srinutha",
+      "email": "sri@gail.com",
+      "password": "1234",
+      "dob": "2026-06-01",
+      "mobile": "987654456",
+      "gender": "female",
+      "username": "sri",
+      "following": [],
+      "followers": [],
+      "id": "_iLPermwGys"
+    }
+  ],
+  "posts": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
